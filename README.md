@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer & Designer
 -----------------------------
 
-* 🌍  I'm based in Bangalore, INDIA
+* 🌍  I'm based in Chennai, INDIA
 * 🖥️  See my portfolio at [karthikk](http://karthikk.com)
 * ✉️  You can contact me at [karthik@karthikk.com](mailto:karthik@karthikk.com)
 * 🚀  I'm currently working on [karthikk.com](http://karthikk.com)
